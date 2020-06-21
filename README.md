@@ -1,5 +1,6 @@
-# tonnetz_tutorial
-Tutorial to analyze musical pieces on the Tonnetz with the pitchplots library
+# Visualisierungen auf dem Tonnetz mit *pitchplots*
 
-* Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fabianmoss/tonnetz_tutorial/master?filepath=tutorial.ipynb)
+
+
+Starten Sie das interaktive Notebook durch Klicken auf den Button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fabianmoss/tonnetz_tutorial/master?filepath=tutorial.ipynb)
 
